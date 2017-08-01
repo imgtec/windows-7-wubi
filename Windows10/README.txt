@@ -13,6 +13,7 @@ Windows 10 支持说明
 
 4. 切换输入法
    Windows 10 可以使用 WIN+SPACE 切换输入法。
+   Ctrl + WIN + SPACE：在英文输入法与当前输入法之间来回换切，相当于早期版本的 Ctrl + SPACE。
 
 5. 关于码表
    Windows 10 里的词组不会更新，更新的词组可以从 Windows 7 的码表同步。
