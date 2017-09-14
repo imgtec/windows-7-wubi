@@ -8,7 +8,7 @@ Windows 7 五笔输入法
 
 2. 下载地址：
    https://code.google.com/p/windows-7-wubi/  
-   https://github.com/zhang3/windows-7-wubi/archive/master.zip
+   http://ime.tkernel.org
 
 3. 安装   
    a) 把上述文件下载到同一目录下
@@ -30,3 +30,7 @@ Windows 7 五笔输入法
    b) 中英切换  [Shift] ->  [Ctrl+,]
 
 2012年10月25日 - 2014年3月10日
+
+2017年9月14日
+更新网址，希望以后不要再改了吧。
+
