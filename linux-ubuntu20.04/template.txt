@@ -28,10 +28,10 @@ SERIAL_NUMBER = 20200926
 ICON = ibus-table.svg
 
 ### The symbol to be displayed in IM switchers
-SYMBOL = 码
+SYMBOL = 五
 
 ### The default name of this table, this is needed
-NAME = Table
+NAME = wenqi-wubi
 
 ### The local names of this table, this is optional
 NAME.zh_CN = 形码
@@ -65,7 +65,7 @@ LAYOUT = us
 MAX_KEY_LENGTH = 4
 
 ### Use auto_commit mode as default
-AUTO_COMMIT = FALSE
+AUTO_COMMIT = TRUE
 
 ### Automatically selects the first phrase when typing
 AUTO_SELECT = FALSE
@@ -87,7 +87,7 @@ PINYIN_MODE = TRUE
 
 ### If true then the phrases' frequencies will be adjusted dynamically
 ### according your using frequency.
-DYNAMIC_ADJUST = TRUE 
+DYNAMIC_ADJUST = FALSE
 
 ### Some characters whose frequencies should be fix all the time, e.g. 
 ### some punctuations
@@ -119,7 +119,7 @@ SELECT_KEYS = 1,2,3,4,5,6,7,8,9
 
 ### The default orientation of the candidate list
 ### TRUE means the candidate list is vertical, FALSE means it is vertical
-ORIENTATION=TRUE
+ORIENTATION=FALSE
 
 END_DEFINITION
 
