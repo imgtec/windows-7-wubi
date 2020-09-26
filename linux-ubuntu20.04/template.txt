@@ -34,7 +34,7 @@ SYMBOL = 五
 NAME = wenqi-wubi
 
 ### The local names of this table, this is optional
-NAME.zh_CN = 形码
+NAME.zh_CN = 问七五笔
 NAME.zh_HK = 形碼
 NAME.zh_TW = 形碼
 
@@ -71,13 +71,16 @@ AUTO_COMMIT = TRUE
 AUTO_SELECT = FALSE
 
 ### Use full width punctuation by default
+### 全角标点
 DEF_FULL_WIDTH_PUNCT = TRUE
 ### Not use full width letter by default
+### 全角字母
 DEF_FULL_WIDTH_LETTER = FALSE
 
 ### Whether user are allow to define phrase, default is true
 ### You have to define the word construction rules below.
 ### For input methods which do not input phrases, set this to False
+### 禁止自造词
 USER_CAN_DEFINE_PHRASE = FALSE
 
 ### Whether support PinYin Mode, default is true.
@@ -87,6 +90,7 @@ PINYIN_MODE = TRUE
 
 ### If true then the phrases' frequencies will be adjusted dynamically
 ### according your using frequency.
+### 动态上屏顺序
 DYNAMIC_ADJUST = FALSE
 
 ### Some characters whose frequencies should be fix all the time, e.g. 
