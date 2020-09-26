@@ -134,7 +134,6 @@ END_DEFINITION
 ### 第三列有点玄乎，是词频，这个可能得去找一些统计资料了。
 
 BEGIN_TABLE
-aaaa	工	1
 a	工	666
 a	戈	666
 aa	式	666
