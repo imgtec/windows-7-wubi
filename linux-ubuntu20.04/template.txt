@@ -130,33 +130,33 @@ END_DEFINITION
 ### 键名提示表，我是在之里挖出来的
 ### /usr/share/ibus-table/engine/tabcreatedb.py
 
-BEGIN_CHAR_PROMPTS_DEFINITION
-a	工
-b	子
-c	又
-d	大
-e	月
-f	土
-g	王
-h	目
-i	水
-j	日
-k	口
-l	田
-m	山
-n	已
-o	火
-p	之
-q	金
-r	白
-s	木
-t	禾
-u	立
-v	女
-w	人
-x	纟
-y	言
-END_CHAR_PROMPTS_DEFINITION
+### BEGIN_CHAR_PROMPTS_DEFINITION
+### a	工
+### b	子
+### c	又
+### d	大
+### e	月
+### f	土
+### g	王
+### h	目
+### i	水
+### j	日
+### k	口
+### l	田
+### m	山
+### n	已
+### o	火
+### p	之
+### q	金
+### r	白
+### s	木
+### t	禾
+### u	立
+### v	女
+### w	人
+### x	纟
+### y	言
+### END_CHAR_PROMPTS_DEFINITION
 
 ### Begin Table data.
 ### Format of every line whose formated in "input_keys\tphrase\tfreq\n" is an
