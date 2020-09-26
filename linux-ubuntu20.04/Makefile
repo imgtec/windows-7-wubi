@@ -9,3 +9,8 @@ clean:
 
 install:
 	cp wenqi-wubi.db /usr/share/ibus-table/tables/
+
+sudo_install: wenqi-wubi.db
+	sudo cp wenqi-wubi.db /usr/share/ibus-table/tables/
+	ibus restart
+
