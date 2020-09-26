@@ -94676,7 +94676,7 @@ yyyn	言词	666
 yyyy	文言	666
 yyyf	譶	666
 z	.	666
-END_TABlE
+END_TABLE
 
 ### Since some input methods use different table for every character to make
 ### phrase, such as ZhengMa, they need explict define the goucima (the
